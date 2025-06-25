@@ -1,0 +1,142 @@
+{
+  "settings": {
+    "name": "Niket S. Padole",
+    "title": "Civil Engineer",
+    "location": "India",
+    "summary": "Civil Engineering graduate with a strong foundation in technical skills and a passion for contributing to organizational growth.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg",
+    "primaryColor": "#0067c7"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Contact Me",
+          "url": "mailto:niketpadole06@gmail.com",
+          "isPrimary": true,
+          "icon": "mail"
+        },
+        {
+          "text": "Download Resume",
+          "url": "#",
+          "isPrimary": false,
+          "icon": "download"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "title": "About Me",
+      "content": "A recent Civil Engineering graduate eager to apply academic knowledge to real-world projects. Possessing a strong foundation in technical skills, including AutoCAD and Revit architecture. A dedicated team player with excellent communication and organizational abilities. Committed to continuous learning and contributing to the growth of an organization.",
+      "skills": {
+        "enabled": true,
+        "title": "Skills",
+        "items": [
+          "AutoCAD",
+          "Revit Architecture",
+          "Microsoft Excel",
+          "Microsoft Word",
+          "Microsoft PPT",
+          "C (Programming Language)",
+          "Communication",
+          "Teamwork",
+          "Organization"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": false,
+      "title": "Experience",
+      "items": []
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Study of Voided Slab by Using U-Boot Beton Technology",
+          "description": "Diploma Project",
+          "tags": [
+            "Civil Engineering",
+            "Structural Analysis"
+          ],
+          "previewUrl": "#"
+        },
+        {
+          "title": "Experimental Analysis on Cement Concrete Properties with Different Types of Admixture",
+          "description": "Degree Project",
+          "tags": [
+            "Civil Engineering",
+            "Material Science"
+          ],
+          "previewUrl": "#"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Agnihotri College of Engineering, Nagthana, Wardha",
+          "degree": "Bachelor of Engineering (Civil Engineering)",
+          "period": "2018 - 2022"
+        },
+        {
+          "institution": "Government Polytechnic Gondia",
+          "degree": "Diploma (Poly-technique)",
+          "period": "2015 - 2018"
+        },
+        {
+          "institution": "New English High School",
+          "degree": "SSC",
+          "period": "2014 - 2015"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "niketpadole06@gmail.com",
+      "phone": "+91-7208772462",
+      "location": "India"
+    },
+    "social": {
+      "enabled": false,
+      "items": []
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "name": "Home",
+        "url": "#hero"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Niket S. Padole. All rights reserved."
+  }
+}
